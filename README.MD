@@ -1,18 +1,34 @@
-# Project "AMY" (Portfolio Website)
-![Watch Now](./image/ReadMeBanner.png)
+# 🌐 Responsive Website Projects
 
-## Watch The Complete Tutorial ![YouTube Video Views](https://img.shields.io/youtube/views/78l05_nuDIg?style=social) : [Playlist](https://www.youtube.com/playlist?list=PLRv_Gd5w9e7m_6DqBDtb1gbG6ikBq2HJ3)
+This repository contains multiple responsive website projects created as part of my learning journey in web design and development. Each site is built with attention to user experience, layout, and performance.
 
-## Live Preview : [Open Link](https://shaifarfan.github.io/AMYs-Portfolio/)
+## ✨ Projects Included
 
-This project is for HTML & CSS practice. AMY is a fictional character. She is a freelance web designer. We made this nice portfolio for her with mainly HTML & CSS. Though we used few lines of js but the main purpose of this project is to practice HTML & CSS.
+### 1. Restaurant Website
+- **Tech Used:** HTML, CSS
+- **Features:**
+  - Responsive reservation form
+  - Menu section with item descriptions
+  - Restaurant introduction with business hours and contact details
 
-<b>💻 Coded by [Shaif Arfan](https://instagram.com/shaifarfan08) | [web cifar](https://webcifar.com)</b>
+### 2. Yoga Introduction Page
+- **Tech Used:** Tailwind CSS
+- **Features:**
+  - Clean and calming design
+  - Fully responsive layout
+  - Introduction to yoga benefits and session info
 
+### 3. Insurance Website
+- **Tech Used:** Bootstrap
+- **Features:**
+  - Responsive design for all screen sizes
+  - Clear and professional layout
+  - Sections for services, plans, and contact information
 
-## Similar Projects/turorials
+## 📱 Responsive Design
+All projects are built with responsiveness in mind, ensuring a consistent and smooth user experience across desktop, tablet, and mobile devices.
 
- - [Ayans's Profolio - (react.js project)](https://github.com/ShaifArfan/AYANs-portfolio)
- - [Shaif's Cuisine - (HTML, CSS project)](https://github.com/ShaifArfan/shaif-s-cuisine)
-  
-
+## 🚀 How to View
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KahoUchiyama/Portfolio.git
